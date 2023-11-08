@@ -241,3 +241,7 @@ return false;
 });
 
 // form validation end 
+
+$(document).ready(function () {
+$("#loading").fadeOut("slow");
+});
