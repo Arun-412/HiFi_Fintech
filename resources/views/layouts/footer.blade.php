@@ -22,9 +22,10 @@
 
     <!-- Copyright -->
     <div class="content container">
-        <div class="row text-center">
+        <div class="row text-center"> 
             <p class="margin-b-0">© <a class="copyright" href="#">HiFi</a>, All Rights Reserved | <a class="copyright"
-                    href="{{route('policy')}}">Privacy Policy</a>
+                    href="{{route('policy')}}">Privacy Policy</a> | <a class="copyright"
+                    href="{{route('terms_and_condition')}}">Terms and Conditions</a>
         </div>
     </div>
     <!-- End Copyright -->

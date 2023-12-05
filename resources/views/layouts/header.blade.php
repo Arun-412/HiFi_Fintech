@@ -20,9 +20,9 @@
 
                 <div class="menu-container">
                     <ul class="nav navbar-nav navbar-nav-right">
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover"
-                                href="{{route('index')}}">Home</a></li>
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover"
+                        <li class="js_nav-item nav-item" id="home"><a class="nav-item-child nav-item-hover"
+                                href="{{route('index')}}" >Home</a></li>
+                        <li class="js_nav-item nav-item" id="service"><a class="nav-item-child nav-item-hover"
                                 href="#services">Services</a></li>
                         <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#about">Team</a>
                         </li>

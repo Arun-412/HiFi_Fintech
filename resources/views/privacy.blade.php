@@ -5,63 +5,117 @@
 <div id="">
     <div class="privacy-margin" data-auto-height="true">
         <div class="container margin-b-50">
-            <h2>Privacy.</h2>
+            <h2>Privacy Policy.</h2>
             <br>
-            <p>Privacy Policy is intended to inform the user of site's policies and practices regarding the
-                collection, use and disclosure of any personal information that the User submitted to us
-                through our website. The site is committed to protecting the privacy of the users' personal
-                information. The purpose of this policy is to inform the user of the personal information that
-                he/she provides to the site when using the site. This privacy statement applies solely to
-                information collected by the site. This Privacy Policy is incorporated into and subject to the
-                terms of the site's Terms of Service and forms part of Terms and Conditions of Use. If the
-                user does not agree to the terms of this Privacy Policy, he/she must discontinue using the
-                services on this site and terminate the user registration. By using or accessing the site, the
-                user expressly and impliedly accepts the practices described in this Privacy Policy.</p>
+            <p>
+                HIFI FINTECH is committed to appreciating and respecting the choice and privacy of its user base and the
+                business associates when they use our website and services. The statement here highlights and gives
+                information about the privacy practices employed and used by us in relation to the personal information
+                we hold of our business associates and users. <br> <br>
+
+                We ensures that every transaction you conduct online is in a safe and secure environment. To achieve
+                this,our website is protected by Secured Socket Layer (SSL) technology .The process of encryption takes
+                your credit card information and converts it into bits of code that are securely transmitted over the
+                Internet. This scrambled data cannot be read as the information travels over the Internet. Your credit
+                card details may be shared with our service providers or vendors to the extent deemed necessary. We want
+                you to feel confident about using website to plan and purchase your travel tickets, so we are committed
+                to protecting the information we collect. While no Website can guarantee absolute security, we have
+                implemented appropriate administrative, technical, and physical security procedures to help protect the
+                personal information you provide to us. To prevent unauthorized access, maintain data accuracy, and
+                ensure correct use of information, we will employ reasonable and current Internet security methods and
+                technologies. Any information which is specifically mentioned by us as Confidential shall be maintained
+                confidentially by the user and shall not be disclosed unless as required by law or to serve the purpose
+                of this agreement and the obligations of both the parties therein. If you are more comfortable with
+                giving your credit card information over phone, you can call our Customer Service Centre. If you have
+                any additional queries or concerns, please Contact us , and we will reply within 24
+                hours.
+            </p>
         </div>
         <div class="container margin-b-50">
-            <h2>Refund.</h2>
+            <h2>Definition and Description.</h2>
             <br>
-            <p>Our money transfer service has a refund policy in place to ensure customer satisfaction. If
-                you have made a money transfer and would like a refund, please contact our customer
-                support team within 24 hours of initiating the transfer. A full refund will be processed if the
-                transaction has not been completed. However, if the transfer has been completed, we will not
-                be able to process a refund. If payment is pending from bank end customer need to wait up to
-                3 to 5 bank working days for get an payment status from bank end. Please note that refunds
-                may take up to 10 business days to appear on your account. For any further queries, please do
-                not hesitate to contact us.</p>
+            <p>For the purposes of the privacy policy, personal information and data include the data and information
+                that can be identified or linked to specific users. This information may include address, name, mailing
+                address, email id, telephone number, mobile phone number related information, data card, DTH service
+                information, electricity connection data and any other data, information, and details that are provided
+                by the users and associates voluntarily while availing the services of the website of HIFI FINTECH. <br>
+                <br>
+
+                Exception to HIFI FINTECH Privacy Policy: Data and information provided by the users/business associates
+                in
+                the public forums and environments, live chat room, blog, album, social networking sites, discussion
+                boards, classifieds, community and the likes (without limitation), are not deemed to be confidential and
+                hence are not considered as personal/sensitive information and data, according to National Pay privacy
+                policy. Such information is therefore not protected under our privacy policy.
+            </p>
         </div>
         <div class="container margin-b-50">
-            <h2>User Consent.</h2>
+            <h2>Use of Personal Information and Data.</h2>
             <br>
-            <p>By submitting personal information the user profile, including contact particulars, pictures,
-                interests etc., the user joins the site and agrees to the terms of this Privacy Policy and
-                expressly consents to the processing of his/her personal information according to this Privacy
-                Policy. User's personal information may be processed by the site in the country where it was
-                collected as well as other countries (including India). This data is used to customize his/her
-                visit to the site, showing the user content that we think you may be interested in. </p>
+            <p>HIFI FINTECH uses the personal data and information given by the users/business associates to provide
+                them and
+                with specific services that have been explicitly requested by a user/associate. The personal information
+                is
+                required and used by National Pay to troubleshoot concerns, resolve disputes, collect money, promote
+                safe
+                and secure services, inform the users and associates about our services/offers/updates, assess the
+                interest
+                of users and associates in our services, and prevent us in committing errors. The information may also
+                be
+                used for preventing criminal activity and fraud, and for enforcing terms and conditions, among other
+                uses.</p>
         </div>
         <div class="container margin-b-50">
-            <h2>Collection and Use of Information.</h2>
+            <h2>Disclosure of Information Data.</h2>
             <br>
-            <p>The site uses any information voluntarily given by the user to enhance their experience in the
-                network of the site so as to make the content useful for the users on the basis of their interest.
-                At this site we want to make the experience of our users satisfying and worthwhile. User
-                posts the content on the site at his/her own risk. Although the site allows to set privacy
-                options that limit access to User pages, please be aware that no security measures are perfect
-                or impenetrable. The site cannot control the actions of other users with whom you may
-                choose to share your pages and information. Therefore, the site cannot guarantee that the user
-                content the User posts on the site will not be viewed by unauthorized persons. The site is not
-                responsible for circumvention of any privacy settings or security measures contained on the
-                site. User must understand and acknowledge that, even after removal, copies of user content
-                may remain viewable in cached and archived pages or if other users have copied or stored the
-                user content.</p>
+            <p>
+                HIFI FINTECH shares sensitive or private confidential data or information with an external organization
+                only
+                when it is necessary to enable us to provide the services to business associates and users. We may also
+                share the information when it is necessary for us to do so for completing a legitimate transaction, for
+                reporting purposes (required or necessary under the terms and conditions applicable to the information),
+                and/or because of the applicability of the law. In no other scenario shall we share the confidential and
+                personal data and information of our users and business associates. The information of the business
+                associates and users will be shared when it is required or permitted by law.
+            </p>
         </div>
         <div class="container margin-b-50">
-            <h2>Changes in the Privacy Policy.</h2>
+            <h2>Observation and Implementation of Reasonable Security Practices.</h2>
             <br>
-            <p>If there is a change in the privacy policy, it will prominently be posted as a link to those
-                changes on site's homepage so that the users are always aware of what information is being
-                collected, how is it being used it, and under what circumstances, if any, it is disclosed.</p>
+            <p>
+                HIFI FINTECH undertakes the necessary and reasonable precautions for maintaining the confidentiality and
+                privacy of data and information of our users as well as business associates. For the purpose, we provide
+                restricted access to persons who may be required to assess the data and information (on a need to know
+                basis). We also provide the necessary training to our employees for ensuring safe and proper handling of
+                data.
+            </p>
+        </div>
+        <div class="container margin-b-50">
+            <h2>Links to Other Websites.</h2>
+            <br>
+            <p>
+                The HIFI FINTECH website also has links to other websites. Users should know and understand that when
+                they
+                click on any of the links, they enter into another website. We assume no responsibility for these
+                websites. We encourage the users to read and understand the privacy statements of these websites, which
+                may be different from the privacy policy of HIFI FINTECH. The users/associates are solely responsible
+                for
+                ensuring the security and secrecy of their membership accounts, and their passwords.
+            </p>
+        </div>
+        <div class="container margin-b-50">
+            <h2>Privacy Policy Updates.</h2>
+            <br>
+            <p>
+                HIFI FINTECH has the full rights to make changes to the data privacy practices it uses/employs, and to
+                update the privacy statement whenever a need arises. The same updates and changes will be made available
+                on our website. <br> <br>
+                If there is a change in the privacy policy, it will prominently be posted as a link to those changes on
+                site's homepage so that the users are always aware of what information is being collected, how is it
+                being used it, and under what circumstances, if any, it is disclosed. <br> <br>
+
+                HIFI FINTECH never asks you to share your username or password or OTP.
+            </p>
         </div>
         <div class="container margin-b-50">
             <h2>Grievance and Customer Support.</h2>
@@ -81,6 +135,5 @@
                 days. </p>
         </div>
     </div>
-</div>
 
-@endsection
+    @endsection

@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('privacy_policy', function () {
     return view('privacy');
 })->name('policy');
+
+Route::get('terms_and_condition', function () {
+    return view('terms_and_condition');
+})->name('terms_and_condition');

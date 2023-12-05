@@ -14,7 +14,6 @@
     <link href="{{asset('assets/js/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('assets/css/animate.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/layout.css')}}" rel="stylesheet" type="text/css" />
-    <!-- <link href="{{asset('assets/css/layout.min.css')}}" rel="stylesheet" type="text/css"/> -->
     <link rel="icon" href="{{asset('assets/img/fav-icon.png')}}">
 </head>
 

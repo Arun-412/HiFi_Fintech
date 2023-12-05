@@ -242,7 +242,7 @@
 
             <div class="col-sm-6 sm-margin-b-50">
                 <h2>Contact Us.</h2>
-                <form name="Contacts" action="#">
+                <form name="Contacts" id="Contacts" action="#">
                     <div class="margin-b-40">
                         <input class="form-input" type="text" id="name" name="Name" placeholder="Enter Name.." required
                             onkeypress="return /[()a-zA-Z ]/i.test(event.key)" maxlength="30">
@@ -272,6 +272,25 @@
             </div>
         </div>
     </div>
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" style="color:#000 !important;" id="exampleModalLabel">Success</h5>
+        <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button> -->
+      </div>
+      <div class="modal-body">
+       <center><h4 style="color:green !important;">Thank you for contacting us! <br> We will reach you soon</h4></center>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>
     <!-- Clients -->
     <div class="container">
         <ul class="client-row">
@@ -286,5 +305,4 @@
     <!-- End Clients -->
 </div>
 <!-- End Contact -->
-
 @endsection
